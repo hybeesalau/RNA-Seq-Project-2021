@@ -1,0 +1,9 @@
+	condition
+Case1	WT
+Case2	WT
+Case3	WT
+Case4	WT
+Ctrl1	KO
+Ctrl2	KO
+Ctrl3	KO
+Ctrl4	KO
